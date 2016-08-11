@@ -63,8 +63,8 @@ var rules = {
     "You mentioned ~y",
   ],
   "~*x I want ~*y": [
-    "What would it mean if you got ~y?",
-    "Why do you want ~y?",
+    "Whatever floats your boat--good luck getting ~y?",
+    "Tell it to the judge... ~y?",
     "Suppose you got ~y soon.",
   ],
     "~*x I need ~*y": [
